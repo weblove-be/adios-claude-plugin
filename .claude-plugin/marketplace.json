@@ -1,0 +1,14 @@
+{
+  "name": "weblove",
+  "owner": {
+    "name": "Weblove"
+  },
+  "plugins": [
+    {
+      "name": "adios",
+      "source": "./",
+      "description": "Make adios.sh links from Claude: share a password, token or .env as a link that disappears."
+    }
+  ],
+  "description": "Claude plugins by Weblove"
+}

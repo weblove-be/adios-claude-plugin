@@ -1,0 +1,16 @@
+{
+  "name": "adios",
+  "version": "0.1.0",
+  "description": "Make adios.sh links from Claude: share a password, token or .env as a link that disappears.",
+  "author": {
+    "name": "Weblove"
+  },
+  "homepage": "https://adios.sh",
+  "keywords": [
+    "secrets",
+    "sharing",
+    "encryption",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://adios.sh/privacy"
+}
