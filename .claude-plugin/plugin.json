@@ -12,5 +12,6 @@
     "encryption",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://adios.sh/privacy"
+  "privacyPolicyUrl": "https://adios.sh/privacy",
+  "license": "MIT"
 }

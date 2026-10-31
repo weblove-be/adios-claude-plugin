@@ -30,3 +30,7 @@ Only share what you mean to share. Be careful with tools that read pages or file
 ## Limits
 
 The hosted server allows 60 requests a minute per IP and 256 KB per request, and links last at most 7 days.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
